@@ -1,0 +1,64 @@
+main {
+    font-family: 'Bitter', serif;
+    text-align: center;
+    text-shadow: 1px 4px 8px rgba(217, 169, 245, 0.73);
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: lightcoral;
+}
+header {
+    font-family: 'Lobster';
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: larger;
+    text-align: center;
+    background-image: url(../image/дрейн\ фон\ хедер.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:contain ;
+    text-shadow: 1px 4px 8px rgba(162,52,223,0.73);
+    position:relative;
+}
+footer {
+    size: 30px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size:medium;
+    background-image: url(../image/дрейн\ фон\ хедер.jpg);
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+a :hover {
+    -webkit-box-shadow: 3px -6px 30px 3px rgba(234, 111, 255, 0.32);
+-moz-box-shadow: 3px -6px 30px 3px rgba(234, 111, 255, 0.32);
+box-shadow: 3px -6px 30px 3px rgba(234, 111, 255, 0.32);
+}
+body {
+    background-image: url(../image/фончик.jpg);
+    background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size:cover ;
+}
+main p {
+    background-color: rgba(94, 1, 79, 0.37);
+    text-shadow: 1px 4px 8px rgba(217, 169, 245, 0.73);
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.pic {
+margin-top: 30px;
+     margin-bottom: 50px;
+     margin-right: 250px;
+     margin-left: 250px;
+}
+.down {
+    margin-left: 400px;
+    margin-right: 400px;
+}
